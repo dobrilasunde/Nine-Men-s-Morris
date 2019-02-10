@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Game.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SpriteComponent.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Actor.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Component.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Math.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\BGSpriteComponent.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Board.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Piece.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Player.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\TextSpriteComponent.cpp" />
+    <ClCompile Include="PieceSpriteComponent.cpp" />
+    <ClCompile Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\MoveComponent.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Game.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Actor.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Component.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\SpriteComponent.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Math.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\BGSpriteComponent.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\PieceSpriteComponent.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Board.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Piece.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\Player.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\TextSpriteComponent.hpp" />
+    <ClInclude Include="..\..\Nine Men%27s Morris\Nine Men%27s Morris\MoveComponent.hpp" />
+  </ItemGroup>
+</Project>
